@@ -1,1 +1,1 @@
-# scVIT
+# scViT
